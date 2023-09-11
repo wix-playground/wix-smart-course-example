@@ -31,7 +31,7 @@ sections:
         content: courses/example-course/05-fifth-step.md
         
   - SectionID: S2
-    title: Section New changed
+    title: Section New new new
     steps:
       - ID: A22
         title: Step 1 - Setup Scala development environment
