@@ -1,0 +1,38 @@
+title: Scala Nothing To Prod
+category: WIX
+sub-Category: Server Guild
+
+tags:
+  - Wix
+  - Server Onboarding
+  - Academy Learning Original
+
+description:
+  - content: server-onboarding/guides/ntp/00-nothing-to-prod.md
+
+sections:
+  - SectionID: S1
+    title: Nothing To Prod
+    steps:
+      - ID: A1
+        title: Step 1 - Setup Scala development environment
+        content: courses/example-course/01-first-step.md
+      - ID: A2
+        title: Step 2 - Clone repository
+        content: courses/example-course/02-second-step.md
+      - ID: A3
+        title: Step 3 - Generate Scala Nile project
+        content: courses/example-course/03-third-step.md
+      - ID: A4
+        title: Step 4 - Get your code to master branch
+        content: courses/example-course/04-fourth-step.md
+      - ID: A5
+        title: Step 5 - Get your code to production
+        content: courses/example-course/05-fifth-step.md
+        
+  - SectionID: S2
+    title: Section New new new
+    steps:
+      - ID: A22
+        title: Step 1 - Setup Scala development environment
+        content: courses/example-course/01-first-step.md
