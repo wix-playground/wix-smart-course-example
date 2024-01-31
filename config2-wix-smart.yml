@@ -17,8 +17,6 @@ sections:
       - ID: A1
         title: Step 1 - Setup Scala development environment
         content: courses/example-course/01-first-step.md
-        startofstep: courses/example-course/01-first-step.md#typographic-replacements
-        endofstep: courses/example-course/01-first-step.md#emphasis
       - ID: A2
         title: Step 2 - Clone repository
         content: courses/example-course/02-second-step.md
