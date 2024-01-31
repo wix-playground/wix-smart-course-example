@@ -1,4 +1,6 @@
-Test update
+Test Image
+
+![Minion](https://github.com/wix-playground/wix-smart-course-example/blob/master/courses/example-course/images/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6d696e696f6e2e706e67.png)
 
 
 ---
