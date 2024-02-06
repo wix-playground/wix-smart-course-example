@@ -18,7 +18,7 @@ sections:
         title: Step 1 - Setup Scala development environment
         content: courses/example-course/01-first-step.md
         startofstep: https://github.com/wix-playground/wix-smart-course-example/blob/master/courses/example-course/01-first-step.md#typographic-replacements
-        endofstep: https://github.com/wix-playground/wix-smart-course-example/blob/master/courses/example-course/01-first-step.md#blockquotes
+        endofstep: 
       - ID: A2
         title: Step 2 - Clone repository
         content: courses/example-course/02-second-step.md
