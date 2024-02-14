@@ -70,6 +70,14 @@ _This is italic text_
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
 
+# What is the ML platform?
+
+👉 The ML platform is a code framework developed in house to provide data scientists with the means to serve
+(i.e. make available for use) and monitor their models.
+
+👉 After you finish writing your model's code, you will usually rely on the ML platform to conduct the next stages of
+your model's lifecycle as follows:
+
 
 ## Lists
 
