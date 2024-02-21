@@ -254,3 +254,20 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 *here be dragons*
 :::
 
+### Mermoid
+```mermaid
+graph TD;
+    wishlist-- RPC -->CatalogReadApi;
+    wishlist-- SDK -->AmazonOrders
+```
+
+```mermaid
+flowchart LR
+    START:::hidden -- OnCreate --> WishlistService
+    WishlistService -- GetProduct --> CatalogReadApi
+    CatalogReadApi -.-> WishlistService
+    WishlistService -- CreateOrder --> AmazonOrders
+    AmazonOrders -.-> WishlistService
+    classDef hidden display: none;
+```
+
